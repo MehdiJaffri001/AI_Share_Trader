@@ -1,4 +1,5 @@
 The code attached is for the AI-Share trader Honours Project by JFFSYE002.
+The pdf attached is the Paper submitted for the Honours Project.
 
 The project involves training DRL agents using STGNN encoders on the JSE and NYSE.
 
